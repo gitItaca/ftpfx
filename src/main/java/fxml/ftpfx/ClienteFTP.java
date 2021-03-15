@@ -51,7 +51,6 @@ public class ClienteFTP {
 		System.out.println("7- Eliminar directorio.");
 		System.out.println("8- Crear directorio.");
 		System.out.println("9- Cambiar directorio actual.");
-		System.out.println("10- Establecer conexion remotamente.");
 		int opcion = Leer.pedirEnteroValidar();		
 		
 		return opcion;
